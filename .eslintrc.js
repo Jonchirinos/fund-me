@@ -14,5 +14,6 @@ module.exports = {
   plugins: ['react'],
   rules: {
     'require-jsdoc': 0,
+    camelCase: 0,
   },
 };
